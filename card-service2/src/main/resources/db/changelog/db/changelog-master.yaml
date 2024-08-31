@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: 1
-      author: your_name
+      author: Abdurahim Isroilov
       changes:
         - createTable:
             tableName: users
@@ -33,7 +33,7 @@ databaseChangeLog:
 
   - changeSet:
       id: 2
-      author: your_name
+      author: Abdurahim Isroilov
       changes:
         - createTable:
             tableName: cards
@@ -91,7 +91,7 @@ databaseChangeLog:
 
   - changeSet:
       id: 3
-      author: your_name
+      author: Abdurahim Isroilov
       changes:
         - createTable:
             tableName: transactions
